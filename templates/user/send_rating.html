@@ -1,0 +1,24 @@
+{% extends 'user/userindex.html' %}
+{% block body %}
+    <div class="container">
+<form id="form1" name="form1" method="post" action="">
+{#     <input type="hidden" name="id" value="{{ data['kc_id'] }}">#}
+  <table class="table">
+    <tr>
+      <td>Rating</td>
+      <td><label>
+        <input type="text" name="textfield"  class="form-control" required/>
+      </label></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><label>
+        <div align="center">
+          <input type="submit" name="Submit" value="send" class="btn btn-success"/>
+          </div>
+      </label></td>
+    </tr>
+  </table>
+</form>
+    </div>
+{% endblock %}

@@ -1,0 +1,26 @@
+{% extends 'index.html' %}
+{% block body %}
+
+<div class="container">
+<form id="form1" name="form1" method="post" action="/admin_admin_send_reply_post">
+    <input type="hidden" name="hid" value="{{ id }}"/>
+  <table class="table">
+    <tr>
+      <td>reply</td>
+      <td>
+        <input type="text" name="textfield"  class="form-control" required/>
+      </label></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><label> 
+        <div align="center">
+          <input name="Submit" type="submit" value="send" class="btn btn-outline-success" />
+          </div>
+      </label></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</form>
+</body>
+{% endblock %}

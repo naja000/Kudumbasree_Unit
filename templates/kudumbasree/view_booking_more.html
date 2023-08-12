@@ -1,0 +1,28 @@
+{% extends 'kudumbasree/index.html' %}
+{% block body %}
+    <div class="container">
+<form id="form1" name="form1" method="post" action="/">
+  <table class="table table-bordered">
+    <tr>
+      <td>sno</td>
+      <td>Product</td>
+        <TD>Price</TD>
+      <td>quantity</td>
+        <td>Total</td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+      <td>{{ i['product_name'] }}<br><img src="{{ i['image'] }}" height="100px" width="100px"alt=""/><br>&nbsp;</td>
+        <td>{{ i['amount'] }}</td>
+      <td>{{ i['qty'] }}&nbsp;</td>
+    <td>{{ i['ptot'] }}</td>
+
+    </tr>
+      {% endfor %}
+      <tr><h4>Total Amount:{{ ttt }}</h4></tr><br>
+  </table>
+
+</form>
+    </div>
+{% endblock %}

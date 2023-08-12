@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9406c17d-a1f7-454f-96da-59789b3975f0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/kudumbasree_project$kudumbasree_project.coverage" NAME="kudumbasree project Coverage Results" MODIFIED="1653055040215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="kudumbasree project.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kudumbasree project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="193" column="83" lean-forward="false" selection-start-line="193" selection-start-column="83" selection-end-line="193" selection-end-column="83" />
+              <folding>
+                <element signature="e#0#75#0" expanded="true" />
+                <marker date="1653055040200" expanded="true" signature="508:564" ph="SELECT `logi... login" />
+                <marker date="1653055040200" expanded="true" signature="508:589" ph="SELECT `logi... login" />
+                <marker date="1653055040200" expanded="true" signature="508:600" ph="SELECT `logi... login" />
+                <marker date="1653055040200" expanded="true" signature="508:601" ph="SELECT `logi... login" />
+                <marker date="1653055040200" expanded="true" signature="841:892" ph="SELECT `stau... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="841:917" ph="SELECT `stau... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="2296:2358" ph="INSERT INTO festival... " />
+                <marker date="1653055040200" expanded="true" signature="2296:2369" ph="INSERT INTO festival... " />
+                <marker date="1653055040200" expanded="true" signature="2296:2380" ph="INSERT INTO festival... " />
+                <marker date="1653055040200" expanded="true" signature="2296:2391" ph="INSERT INTO festival... " />
+                <marker date="1653055040200" expanded="true" signature="2296:2402" ph="INSERT INTO festival... " />
+                <marker date="1653055040200" expanded="true" signature="2296:2412" ph="INSERT INTO festival... " />
+                <marker date="1653055040200" expanded="true" signature="2625:2661" ph="delete from " />
+                <marker date="1653055040200" expanded="true" signature="2625:2668" ph="delete from " />
+                <marker date="1653055040200" expanded="true" signature="3060:3113" ph="INSERT INTO notification... " />
+                <marker date="1653055040200" expanded="true" signature="3060:3131" ph="INSERT INTO notification... " />
+                <marker date="1653055040200" expanded="true" signature="3060:3141" ph="INSERT INTO notification... " />
+                <marker date="1653055040200" expanded="true" signature="3060:3142" ph="INSERT INTO notification... " />
+                <marker date="1653055040200" expanded="true" signature="3371:3407" ph="delete from " />
+                <marker date="1653055040200" expanded="true" signature="3371:3414" ph="delete from " />
+                <marker date="1653055040200" expanded="true" signature="3819:3849" ph="insert into admin_send_reply... " />
+                <marker date="1653055040200" expanded="true" signature="4172:4253" ph="update `user... " />
+                <marker date="1653055040200" expanded="true" signature="4172:4260" ph="update `user... " />
+                <marker date="1653055040200" expanded="true" signature="4472:4520" ph="SELECT * FRO... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="4774:4841" ph="UPDATE `kudm... " />
+                <marker date="1653055040200" expanded="true" signature="4774:4848" ph="UPDATE `kudm... " />
+                <marker date="1653055040200" expanded="true" signature="4862:4926" ph="UPDATE `logi... " />
+                <marker date="1653055040200" expanded="true" signature="5230:5295" ph="SELECT * FRO... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="5230:5312" ph="SELECT * FRO... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="5536:5585" ph="SELECT * FRO... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="5867:5906" ph="SELECT * FRO... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="5867:5950" ph="SELECT * FRO... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="6158:6206" ph="SELECT * FRO... product" />
+                <marker date="1653055040200" expanded="true" signature="6158:6214" ph="SELECT * FRO... product" />
+                <marker date="1653055040200" expanded="true" signature="6511:6556" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="6511:6557" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="6511:6558" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="6511:6559" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="6511:6571" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="6812:6884" ph="SELECT user.... USER" />
+                <marker date="1653055040200" expanded="true" signature="7225:7417" ph="SELECT * FRO... notification" />
+                <marker date="1653055040200" expanded="true" signature="7805:8102" ph="SELECT `user... user" />
+                <marker date="1653055040200" expanded="true" signature="8497:8794" ph="SELECT `user... user" />
+                <marker date="1653055040200" expanded="true" signature="8497:8877" ph="SELECT `user... user" />
+                <marker date="1653055040200" expanded="true" signature="9358:9461" ph="update `user... " />
+                <marker date="1653055040200" expanded="true" signature="9647:9766" ph="SELECT `user... user" />
+                <marker date="1653055040200" expanded="true" signature="9944:10063" ph="SELECT `user... user" />
+                <marker date="1653055040200" expanded="true" signature="10360:10549" ph="SELECT `user... user" />
+                <marker date="1653055040200" expanded="true" signature="10859:11048" ph="SELECT * FRO... festival" />
+                <marker date="1653055040200" expanded="true" signature="11247:11269" ph="select * fro... festival" />
+                <marker date="1653055040200" expanded="true" signature="11553:11598" ph="SELECT * FRO... festival" />
+                <marker date="1653055040200" expanded="true" signature="11553:11618" ph="SELECT * FRO... festival" />
+                <marker date="1653055040200" expanded="true" signature="11553:11629" ph="select * fro... festival" />
+                <marker date="1653055040200" expanded="true" signature="11553:11630" ph="select * fro... festival" />
+                <marker date="1653055040200" expanded="true" signature="11816:11861" ph="select * fro... festival" />
+                <marker date="1653055040200" expanded="true" signature="12478:12635" ph="update festi... " />
+                <marker date="1653055040200" expanded="true" signature="12691:12827" ph="update festi... " />
+                <marker date="1653055040200" expanded="true" signature="12870:12985" ph="update festi... " />
+                <marker date="1653055040200" expanded="true" signature="13151:13177" ph="select * fro... notification" />
+                <marker date="1653055040200" expanded="true" signature="13477:13566" ph="SELECT * FRO... notification" />
+                <marker date="1653055040200" expanded="true" signature="13786:13917" ph="SELECT `user... user" />
+                <marker date="1653055040200" expanded="true" signature="14235:14427" ph="SELECT * FRO... notification" />
+                <marker date="1653055040200" expanded="true" signature="14773:14845" ph="SELECT * FRO... report" />
+                <marker date="1653055040200" expanded="true" signature="14773:14846" ph="SELECT * FRO... report" />
+                <marker date="1653055040200" expanded="true" signature="14773:14886" ph="SELECT * FRO... report" />
+                <marker date="1653055040200" expanded="true" signature="16005:16093" ph="INSERT INTO login... " />
+                <marker date="1653055040200" expanded="true" signature="16128:16470" ph="INSERT INTO `kudmbasree`... " />
+                <marker date="1653055040200" expanded="true" signature="17263:17415" ph="INSERT INTO product... " />
+                <marker date="1653055040200" expanded="true" signature="17263:17440" ph="INSERT INTO festival... " />
+                <marker date="1653055040200" expanded="true" signature="17606:17620" ph="select * fro... festival" />
+                <marker date="1653055040200" expanded="true" signature="17606:17650" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="17606:17674" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="17874:17921" ph="select * fro... festival" />
+                <marker date="1653055040200" expanded="true" signature="17874:17922" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="18593:18772" ph="UPDATE `prod... " />
+                <marker date="1653055040200" expanded="true" signature="18855:19014" ph="UPDATE `prod... " />
+                <marker date="1653055040200" expanded="true" signature="18855:19015" ph="UPDATE `prod... " />
+                <marker date="1653055040200" expanded="true" signature="19205:19254" ph="delete from " />
+                <marker date="1653055040200" expanded="true" signature="19558:19618" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="19558:19663" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="19873:19899" ph="select * fro... notification" />
+                <marker date="1653055040200" expanded="true" signature="20102:20272" ph="SELECT `kudu... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="20581:20751" ph="SELECT `kudu... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="20581:20804" ph="SELECT `kudu... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="20752:20804" ph="SELECT * FRO... kudumbasree" />
+                <marker date="1653055040200" expanded="true" signature="21017:21031" ph="select * fro... ku" />
+                <marker date="1653055040200" expanded="true" signature="21017:21066" ph="select * fro... kudumbasree_complaint" />
+                <marker date="1653055040200" expanded="true" signature="21017:21078" ph="select * fro... kudumbasree_complaint" />
+                <marker date="1653055040200" expanded="true" signature="21360:21463" ph="update `kudu... " />
+                <marker date="1653055040200" expanded="true" signature="22035:22177" ph="INSERT INTO `report`... " />
+                <marker date="1653055040200" expanded="true" signature="22111:22137" ph="INSERT INTO `report`... " />
+                <marker date="1653055040200" expanded="true" signature="22111:22177" ph="INSERT INTO `report`... " />
+                <marker date="1653055040200" expanded="true" signature="22177:22178" ph="INSERT INTO `report`... " />
+                <marker date="1653055040200" expanded="true" signature="22329:22400" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="22628:22642" ph="select * fro... ku" />
+                <marker date="1653055040200" expanded="true" signature="22628:22650" ph="select * fro... festival" />
+                <marker date="1653055040200" expanded="true" signature="22951:23028" ph="SELECT * FRO... festival" />
+                <marker date="1653055040200" expanded="true" signature="23646:23745" ph="INSERT INTO advertisement... " />
+                <marker date="1653055040200" expanded="true" signature="23646:23756" ph="INSERT INTO advertisement... " />
+                <marker date="1653055040200" expanded="true" signature="23646:23783" ph="INSERT INTO product... " />
+                <marker date="1653055040200" expanded="true" signature="23930:24069" ph="SELECT user.... USER" />
+                <marker date="1653055040200" expanded="true" signature="23930:24093" ph="SELECT user.... USER" />
+                <marker date="1653055040200" expanded="true" signature="24413:24576" ph="SELECT user.... USER" />
+                <marker date="1653055040200" expanded="true" signature="24523:24576" ph="SELECT `kudu... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="24807:24951" ph="select * fro... boo" />
+                <marker date="1653055040200" expanded="true" signature="25453:25588" ph="SELECT `rati... user" />
+                <marker date="1653055040200" expanded="true" signature="25453:25596" ph="SELECT `rati... user" />
+                <marker date="1653055040200" expanded="true" signature="26090:26287" ph="SELECT `user... user" />
+                <marker date="1653055040200" expanded="true" signature="26226:26287" ph="SELECT `user... user" />
+                <marker date="1653055040200" expanded="true" signature="27522:27607" ph="INSERT INTO login... " />
+                <marker date="1653055040200" expanded="true" signature="27642:27839" ph="INSERT INTO `kudmbasree`... " />
+                <marker date="1653055040200" expanded="true" signature="28044:28063" ph="select * fro... kudumb" />
+                <marker date="1653055040200" expanded="true" signature="28044:28068" ph="select * fro... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="28240:28296" ph="SELECT * FRO... product" />
+                <marker date="1653055040200" expanded="true" signature="28625:28656" ph="insert into book_main... " />
+                <marker date="1653055040200" expanded="true" signature="28625:28714" ph="insert into book_main... " />
+                <marker date="1653055040200" expanded="true" signature="28736:28796" ph="insert into booking_sub... " />
+                <marker date="1653055040200" expanded="true" signature="28736:28803" ph="insert into booking_sub... " />
+                <marker date="1653055040200" expanded="true" signature="29148:29189" ph="insert into rating... " />
+                <marker date="1653055040200" expanded="true" signature="29148:29215" ph="insert into rating... " />
+                <marker date="1653055040200" expanded="true" signature="29148:29232" ph="insert into rating... " />
+                <marker date="1653055040200" expanded="true" signature="29475:29513" ph="select * fro... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="29475:29574" ph="select * fro... advertisement" />
+                <marker date="1653055040200" expanded="true" signature="29709:29731" ph="select * fro... festival" />
+                <marker date="1653055040200" expanded="true" signature="29967:30010" ph="insert into rating... " />
+                <marker date="1653055040200" expanded="true" signature="29967:30036" ph="insert into rating... " />
+                <marker date="1653055040200" expanded="true" signature="29967:30043" ph="insert into rating... " />
+                <marker date="1653055040200" expanded="true" signature="30383:30493" ph="insert into feedback... " />
+                <marker date="1653055040200" expanded="true" signature="30728:30771" ph="select * fro... user_complaint" />
+                <marker date="1653055040200" expanded="true" signature="30728:30772" ph="select * fro... user_complaint" />
+                <marker date="1653055040200" expanded="true" signature="30728:30796" ph="select * fro... user_complaint" />
+                <marker date="1653055040200" expanded="true" signature="32093:32182" ph="insert into login... " />
+                <marker date="1653055040200" expanded="true" signature="32229:32381" ph="insert into users... " />
+                <marker date="1653055040200" expanded="true" signature="32513:32536" ph="select * fro... homebaker" />
+                <marker date="1653055040200" expanded="true" signature="32694:32718" ph="select * fro... kudmbasree" />
+                <marker date="1653055040200" expanded="true" signature="32869:32891" ph="select * fro... eventmanagement" />
+                <marker date="1653055040200" expanded="true" signature="33089:33133" ph="select * fro... homebaker" />
+                <marker date="1653055040200" expanded="true" signature="33333:33393" ph="select * fro... homebakerproduct" />
+                <marker date="1653055040200" expanded="true" signature="33557:33578" ph="select * fro... gallery" />
+                <marker date="1653055040200" expanded="true" signature="33779:33823" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="33779:33829" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="34058:34108" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="34058:34112" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="34058:34132" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="34058:34141" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="34302:34323" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="34539:34596" ph="select * fro... handicraftproduct" />
+                <marker date="1653055040200" expanded="true" signature="34795:34990" ph="select produ... booking_sub" />
+                <marker date="1653055040200" expanded="true" signature="35183:35226" ph="delete from " />
+                <marker date="1653055040200" expanded="true" signature="35217:35226" ph="select produ... booking_sub" />
+                <marker date="1653055040200" expanded="true" signature="35446:35504" ph="select * fro... kudumbasree_complaint" />
+                <marker date="1653055040200" expanded="true" signature="35774:35862" ph="insert into kudumbasree_complaint... " />
+                <marker date="1653055040200" expanded="true" signature="35774:35883" ph="insert into kudumbasree_complaint... " />
+                <marker date="1653055040200" expanded="true" signature="35774:35913" ph="insert into kudumbasree_complaint... " />
+                <marker date="1653055040200" expanded="true" signature="35774:35923" ph="insert into kudumbasree_complaint... " />
+                <marker date="1653055040200" expanded="true" signature="35774:35924" ph="insert into kudumbasree_complaint... " />
+                <marker date="1653055040200" expanded="true" signature="36194:36234" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="36194:36248" ph="select * fro... product" />
+                <marker date="1653055040200" expanded="true" signature="36350:36418" ph="insert into booking_main... " />
+                <marker date="1653055040200" expanded="true" signature="36350:36451" ph="insert into booking_main... " />
+                <marker date="1653055040200" expanded="true" signature="36350:36452" ph="insert into booking_main... " />
+                <marker date="1653055040200" expanded="true" signature="36350:36457" ph="insert into booking_main... " />
+                <marker date="1653055040200" expanded="true" signature="36350:36469" ph="insert into booking_main... " />
+                <marker date="1653055040200" expanded="true" signature="36523:36614" ph="insert into booking_sub... " />
+                <marker date="1653055040200" expanded="true" signature="36817:36898" ph="insert into feedback... " />
+                <marker date="1653055040200" expanded="true" signature="37106:37194" ph="insert into rating... " />
+                <marker date="1653055040200" expanded="true" signature="37461:37596" ph="insert into order_main... " />
+                <marker date="1653055040200" expanded="true" signature="37662:37761" ph="insert into ordersub... " />
+                <marker date="1653055040200" expanded="true" signature="38967:39058" ph="select name,... users" />
+                <marker date="1653055040200" expanded="true" signature="39406:39481" ph="select * fro... login" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/kudumbasree/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="184" column="81" lean-forward="false" selection-start-line="184" selection-start-column="81" selection-end-line="184" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBConnection.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBConnection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1222021.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1222021.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-189">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_and_approval_of_kudumbasree.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/view_and_approval_of_kudumbasree.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="31" column="107" lean-forward="false" selection-start-line="31" selection-start-column="107" selection-end-line="31" selection-end-column="107" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_complaints_and_send_reply.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/view_complaints_and_send_reply.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_approved_kudumbasree.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/view_approved_kudumbasree.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="710">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quantity.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/user/quantity.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_product_information.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/user/view_product_information.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userindex.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/user/userindex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="139" column="27" lean-forward="false" selection-start-line="137" selection-start-column="23" selection-end-line="139" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MEM</find>
+      <find>admin_view_and_approving_of_kudumbasree</find>
+      <find>kudumbasree_add_product</find>
+      <find>kudumbasree_view_product</find>
+      <find>kudumbasree_search_product_post</find>
+      <find>kudumbasree_edit_product</find>
+      <find>label</find>
+      <find>kudumbasree_view_notification</find>
+      <find>kudumbasree_view_complaint</find>
+      <find>kudumbasree_send_reply</find>
+      <find>kudumbasree_add_fin_report</find>
+      <find>kudumbasree_view_fin_report</find>
+      <find>kudumbasree_view_festival</find>
+      <find>admin_view_feedback</find>
+      <find>kudumbasree_view_booking</find>
+      <find>kudumbasree_view_booking_more</find>
+      <find>Cler</find>
+      <find>Log</find>
+      <find>and_gallery</find>
+      <find>logg</find>
+      <find>kudumbasree_add_advertisement</find>
+      <find>reply</find>
+      <find>khome</find>
+      <find>reg</find>
+      <find>insert into k</find>
+      <find>admin_view_and_approval_of_kudumbasree_post</find>
+      <find>kudumbasree_add_fin_report_post</find>
+      <find>uhome</find>
+      <find>booki</find>
+      <find>admin_view_complaints_and_send_reply</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/kudumbasree/khome.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/static/admin_temp/index.html" />
+        <option value="$PROJECT_DIR$/templates/admin/home.html" />
+        <option value="$PROJECT_DIR$/templates/admin/admin_send_reply.html" />
+        <option value="$PROJECT_DIR$/templates/admin/send_reply.html" />
+        <option value="$PROJECT_DIR$/templates/landindex.html" />
+        <option value="$PROJECT_DIR$/templates/admin/admintemp.html" />
+        <option value="$PROJECT_DIR$/templates/inx2.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/view_rate_and_review.html" />
+        <option value="$PROJECT_DIR$/templates/admin/add_festival.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_festival.html" />
+        <option value="$PROJECT_DIR$/templates/admin/edit_festival.html" />
+        <option value="$PROJECT_DIR$/templates/admin/add_notification.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_notification.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_approved_kudumbasree.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_product_information.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_rate_and_review.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_financial_report.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_complaints_from_users_about_kudumba.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/registration.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_and_approval_of_kudumbasree.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/add_product.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/view_added_product.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/edit_product.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/view_notification.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/view_complaint.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/send_reply.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/add_fin_report.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/view_fin_report.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/view_festival.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/add_advertisement.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/view_feedback.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_feedback.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/view_booking.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/view_booking_more.html" />
+        <option value="$PROJECT_DIR$/templates/userregistration.html" />
+        <option value="$PROJECT_DIR$/templates/loginindex.html" />
+        <option value="$PROJECT_DIR$/templates/user/send_rating.html" />
+        <option value="$PROJECT_DIR$/templates/user/view_kudumbasree.html" />
+        <option value="$PROJECT_DIR$/templates/user/view_ad.html" />
+        <option value="$PROJECT_DIR$/templates/user/send_feedback.html" />
+        <option value="$PROJECT_DIR$/templates/user/send_complaint.html" />
+        <option value="$PROJECT_DIR$/templates/user/view_complaints.html" />
+        <option value="$PROJECT_DIR$/templates/user/quantity.html" />
+        <option value="$PROJECT_DIR$/templates/user/view_product_information.html" />
+        <option value="$PROJECT_DIR$/templates/kudumbasree/index.html" />
+        <option value="$PROJECT_DIR$/templates/user/userindex.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_complaints_and_send_reply.html" />
+        <option value="$PROJECT_DIR$/kudumbasree project.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kudumbasree project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Documents\kudumbasree project\templates\user" />
+      <recent name="C:\Users\DELL\Documents\kudumbasree project\templates" />
+      <recent name="D:\kalladi2\kudumbasree project\templates\kudumbasree" />
+      <recent name="D:\kalladi2\kudumbasree project\templates" />
+      <recent name="D:\kalladi2\kudumbasree project\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prana\PycharmProjects\kudumbasree project" />
+      <recent name="C:\Users\prana\PycharmProjects\kudumbasree project\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.kudumbasree project">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="kudumbasree project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="kudumbasree project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="kudumbasree project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="kudumbasree project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="kudumbasree project" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="kudumbasree project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="kudumbasree project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="kudumbasree project" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="kudumbasree project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kudumbasree project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.kudumbasree project" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9406c17d-a1f7-454f-96da-59789b3975f0" name="Default" comment="" />
+      <created>1640067438189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640067438189</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.253125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2755214" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21844128" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kudumbasree project.py</url>
+          <line>337</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/view_rate_and_review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/admintemp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="243" column="53" lean-forward="false" selection-start-line="243" selection-start-column="51" selection-end-line="243" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/admin_send_reply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/add_festival.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_festival.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/edit_festival.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="88" lean-forward="false" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/add_notification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_notification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="39" column="6" lean-forward="false" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_product_information.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_rate_and_review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_financial_report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/kudumbasree/Screenshot (3).png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/add_product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="329" column="59" lean-forward="false" selection-start-line="329" selection-start-column="59" selection-end-line="329" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/edit_product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="48" column="10" lean-forward="false" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/view_notification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/view_complaint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="84" lean-forward="false" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/add_fin_report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="30" column="79" lean-forward="false" selection-start-line="30" selection-start-column="79" selection-end-line="30" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/view_fin_report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/view_festival.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/add_advertisement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/view_feedback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_feedback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="78" lean-forward="false" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inx2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="877">
+          <caret line="44" column="57" lean-forward="false" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/userregistration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/loginindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="57" column="68" lean-forward="false" selection-start-line="57" selection-start-column="68" selection-end-line="57" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/view_booking.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/view_booking_more.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="50" lean-forward="false" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/view_added_product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="37" column="97" lean-forward="false" selection-start-line="37" selection-start-column="97" selection-end-line="37" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view_kudumbasree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view_ad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/send_reply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_complaints_from_users_about_kudumba.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/send_reply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/send_rating.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view_pgrm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/send_complaint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/send_feedback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="52" lean-forward="false" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view_complaints.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <marker date="1652996756739" expanded="false" signature="918:924" ph=" " />
+            <marker date="1652996756739" expanded="false" signature="1200:1206" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view_product_information.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_approved_kudumbasree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/quantity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1222021.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/kudumbasree/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="184" column="81" lean-forward="false" selection-start-line="184" selection-start-column="81" selection-end-line="184" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_and_approval_of_kudumbasree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="31" column="107" lean-forward="false" selection-start-line="31" selection-start-column="107" selection-end-line="31" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/userindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="139" column="27" lean-forward="false" selection-start-line="137" selection-start-column="23" selection-end-line="139" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_complaints_and_send_reply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kudumbasree project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="193" column="83" lean-forward="false" selection-start-line="193" selection-start-column="83" selection-end-line="193" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+            <marker date="1653055040200" expanded="true" signature="508:564" ph="SELECT `logi... login" />
+            <marker date="1653055040200" expanded="true" signature="508:589" ph="SELECT `logi... login" />
+            <marker date="1653055040200" expanded="true" signature="508:600" ph="SELECT `logi... login" />
+            <marker date="1653055040200" expanded="true" signature="508:601" ph="SELECT `logi... login" />
+            <marker date="1653055040200" expanded="true" signature="841:892" ph="SELECT `stau... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="841:917" ph="SELECT `stau... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="2296:2358" ph="INSERT INTO festival... " />
+            <marker date="1653055040200" expanded="true" signature="2296:2369" ph="INSERT INTO festival... " />
+            <marker date="1653055040200" expanded="true" signature="2296:2380" ph="INSERT INTO festival... " />
+            <marker date="1653055040200" expanded="true" signature="2296:2391" ph="INSERT INTO festival... " />
+            <marker date="1653055040200" expanded="true" signature="2296:2402" ph="INSERT INTO festival... " />
+            <marker date="1653055040200" expanded="true" signature="2296:2412" ph="INSERT INTO festival... " />
+            <marker date="1653055040200" expanded="true" signature="2625:2661" ph="delete from " />
+            <marker date="1653055040200" expanded="true" signature="2625:2668" ph="delete from " />
+            <marker date="1653055040200" expanded="true" signature="3060:3113" ph="INSERT INTO notification... " />
+            <marker date="1653055040200" expanded="true" signature="3060:3131" ph="INSERT INTO notification... " />
+            <marker date="1653055040200" expanded="true" signature="3060:3141" ph="INSERT INTO notification... " />
+            <marker date="1653055040200" expanded="true" signature="3060:3142" ph="INSERT INTO notification... " />
+            <marker date="1653055040200" expanded="true" signature="3371:3407" ph="delete from " />
+            <marker date="1653055040200" expanded="true" signature="3371:3414" ph="delete from " />
+            <marker date="1653055040200" expanded="true" signature="3819:3849" ph="insert into admin_send_reply... " />
+            <marker date="1653055040200" expanded="true" signature="4172:4253" ph="update `user... " />
+            <marker date="1653055040200" expanded="true" signature="4172:4260" ph="update `user... " />
+            <marker date="1653055040200" expanded="true" signature="4472:4520" ph="SELECT * FRO... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="4774:4841" ph="UPDATE `kudm... " />
+            <marker date="1653055040200" expanded="true" signature="4774:4848" ph="UPDATE `kudm... " />
+            <marker date="1653055040200" expanded="true" signature="4862:4926" ph="UPDATE `logi... " />
+            <marker date="1653055040200" expanded="true" signature="5230:5295" ph="SELECT * FRO... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="5230:5312" ph="SELECT * FRO... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="5536:5585" ph="SELECT * FRO... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="5867:5906" ph="SELECT * FRO... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="5867:5950" ph="SELECT * FRO... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="6158:6206" ph="SELECT * FRO... product" />
+            <marker date="1653055040200" expanded="true" signature="6158:6214" ph="SELECT * FRO... product" />
+            <marker date="1653055040200" expanded="true" signature="6511:6556" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="6511:6557" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="6511:6558" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="6511:6559" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="6511:6571" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="6812:6884" ph="SELECT user.... USER" />
+            <marker date="1653055040200" expanded="true" signature="7225:7417" ph="SELECT * FRO... notification" />
+            <marker date="1653055040200" expanded="true" signature="7805:8102" ph="SELECT `user... user" />
+            <marker date="1653055040200" expanded="true" signature="8497:8794" ph="SELECT `user... user" />
+            <marker date="1653055040200" expanded="true" signature="8497:8877" ph="SELECT `user... user" />
+            <marker date="1653055040200" expanded="true" signature="9358:9461" ph="update `user... " />
+            <marker date="1653055040200" expanded="true" signature="9647:9766" ph="SELECT `user... user" />
+            <marker date="1653055040200" expanded="true" signature="9944:10063" ph="SELECT `user... user" />
+            <marker date="1653055040200" expanded="true" signature="10360:10549" ph="SELECT `user... user" />
+            <marker date="1653055040200" expanded="true" signature="10859:11048" ph="SELECT * FRO... festival" />
+            <marker date="1653055040200" expanded="true" signature="11247:11269" ph="select * fro... festival" />
+            <marker date="1653055040200" expanded="true" signature="11553:11598" ph="SELECT * FRO... festival" />
+            <marker date="1653055040200" expanded="true" signature="11553:11618" ph="SELECT * FRO... festival" />
+            <marker date="1653055040200" expanded="true" signature="11553:11629" ph="select * fro... festival" />
+            <marker date="1653055040200" expanded="true" signature="11553:11630" ph="select * fro... festival" />
+            <marker date="1653055040200" expanded="true" signature="11816:11861" ph="select * fro... festival" />
+            <marker date="1653055040200" expanded="true" signature="12478:12635" ph="update festi... " />
+            <marker date="1653055040200" expanded="true" signature="12691:12827" ph="update festi... " />
+            <marker date="1653055040200" expanded="true" signature="12870:12985" ph="update festi... " />
+            <marker date="1653055040200" expanded="true" signature="13151:13177" ph="select * fro... notification" />
+            <marker date="1653055040200" expanded="true" signature="13477:13566" ph="SELECT * FRO... notification" />
+            <marker date="1653055040200" expanded="true" signature="13786:13917" ph="SELECT `user... user" />
+            <marker date="1653055040200" expanded="true" signature="14235:14427" ph="SELECT * FRO... notification" />
+            <marker date="1653055040200" expanded="true" signature="14773:14845" ph="SELECT * FRO... report" />
+            <marker date="1653055040200" expanded="true" signature="14773:14846" ph="SELECT * FRO... report" />
+            <marker date="1653055040200" expanded="true" signature="14773:14886" ph="SELECT * FRO... report" />
+            <marker date="1653055040200" expanded="true" signature="16005:16093" ph="INSERT INTO login... " />
+            <marker date="1653055040200" expanded="true" signature="16128:16470" ph="INSERT INTO `kudmbasree`... " />
+            <marker date="1653055040200" expanded="true" signature="17263:17415" ph="INSERT INTO product... " />
+            <marker date="1653055040200" expanded="true" signature="17263:17440" ph="INSERT INTO festival... " />
+            <marker date="1653055040200" expanded="true" signature="17606:17620" ph="select * fro... festival" />
+            <marker date="1653055040200" expanded="true" signature="17606:17650" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="17606:17674" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="17874:17921" ph="select * fro... festival" />
+            <marker date="1653055040200" expanded="true" signature="17874:17922" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="18593:18772" ph="UPDATE `prod... " />
+            <marker date="1653055040200" expanded="true" signature="18855:19014" ph="UPDATE `prod... " />
+            <marker date="1653055040200" expanded="true" signature="18855:19015" ph="UPDATE `prod... " />
+            <marker date="1653055040200" expanded="true" signature="19205:19254" ph="delete from " />
+            <marker date="1653055040200" expanded="true" signature="19558:19618" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="19558:19663" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="19873:19899" ph="select * fro... notification" />
+            <marker date="1653055040200" expanded="true" signature="20102:20272" ph="SELECT `kudu... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="20581:20751" ph="SELECT `kudu... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="20581:20804" ph="SELECT `kudu... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="20752:20804" ph="SELECT * FRO... kudumbasree" />
+            <marker date="1653055040200" expanded="true" signature="21017:21031" ph="select * fro... ku" />
+            <marker date="1653055040200" expanded="true" signature="21017:21066" ph="select * fro... kudumbasree_complaint" />
+            <marker date="1653055040200" expanded="true" signature="21017:21078" ph="select * fro... kudumbasree_complaint" />
+            <marker date="1653055040200" expanded="true" signature="21360:21463" ph="update `kudu... " />
+            <marker date="1653055040200" expanded="true" signature="22035:22177" ph="INSERT INTO `report`... " />
+            <marker date="1653055040200" expanded="true" signature="22111:22137" ph="INSERT INTO `report`... " />
+            <marker date="1653055040200" expanded="true" signature="22111:22177" ph="INSERT INTO `report`... " />
+            <marker date="1653055040200" expanded="true" signature="22177:22178" ph="INSERT INTO `report`... " />
+            <marker date="1653055040200" expanded="true" signature="22329:22400" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="22628:22642" ph="select * fro... ku" />
+            <marker date="1653055040200" expanded="true" signature="22628:22650" ph="select * fro... festival" />
+            <marker date="1653055040200" expanded="true" signature="22951:23028" ph="SELECT * FRO... festival" />
+            <marker date="1653055040200" expanded="true" signature="23646:23745" ph="INSERT INTO advertisement... " />
+            <marker date="1653055040200" expanded="true" signature="23646:23756" ph="INSERT INTO advertisement... " />
+            <marker date="1653055040200" expanded="true" signature="23646:23783" ph="INSERT INTO product... " />
+            <marker date="1653055040200" expanded="true" signature="23930:24069" ph="SELECT user.... USER" />
+            <marker date="1653055040200" expanded="true" signature="23930:24093" ph="SELECT user.... USER" />
+            <marker date="1653055040200" expanded="true" signature="24413:24576" ph="SELECT user.... USER" />
+            <marker date="1653055040200" expanded="true" signature="24523:24576" ph="SELECT `kudu... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="24807:24951" ph="select * fro... boo" />
+            <marker date="1653055040200" expanded="true" signature="25453:25588" ph="SELECT `rati... user" />
+            <marker date="1653055040200" expanded="true" signature="25453:25596" ph="SELECT `rati... user" />
+            <marker date="1653055040200" expanded="true" signature="26090:26287" ph="SELECT `user... user" />
+            <marker date="1653055040200" expanded="true" signature="26226:26287" ph="SELECT `user... user" />
+            <marker date="1653055040200" expanded="true" signature="27522:27607" ph="INSERT INTO login... " />
+            <marker date="1653055040200" expanded="true" signature="27642:27839" ph="INSERT INTO `kudmbasree`... " />
+            <marker date="1653055040200" expanded="true" signature="28044:28063" ph="select * fro... kudumb" />
+            <marker date="1653055040200" expanded="true" signature="28044:28068" ph="select * fro... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="28240:28296" ph="SELECT * FRO... product" />
+            <marker date="1653055040200" expanded="true" signature="28625:28656" ph="insert into book_main... " />
+            <marker date="1653055040200" expanded="true" signature="28625:28714" ph="insert into book_main... " />
+            <marker date="1653055040200" expanded="true" signature="28736:28796" ph="insert into booking_sub... " />
+            <marker date="1653055040200" expanded="true" signature="28736:28803" ph="insert into booking_sub... " />
+            <marker date="1653055040200" expanded="true" signature="29148:29189" ph="insert into rating... " />
+            <marker date="1653055040200" expanded="true" signature="29148:29215" ph="insert into rating... " />
+            <marker date="1653055040200" expanded="true" signature="29148:29232" ph="insert into rating... " />
+            <marker date="1653055040200" expanded="true" signature="29475:29513" ph="select * fro... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="29475:29574" ph="select * fro... advertisement" />
+            <marker date="1653055040200" expanded="true" signature="29709:29731" ph="select * fro... festival" />
+            <marker date="1653055040200" expanded="true" signature="29967:30010" ph="insert into rating... " />
+            <marker date="1653055040200" expanded="true" signature="29967:30036" ph="insert into rating... " />
+            <marker date="1653055040200" expanded="true" signature="29967:30043" ph="insert into rating... " />
+            <marker date="1653055040200" expanded="true" signature="30383:30493" ph="insert into feedback... " />
+            <marker date="1653055040200" expanded="true" signature="30728:30771" ph="select * fro... user_complaint" />
+            <marker date="1653055040200" expanded="true" signature="30728:30772" ph="select * fro... user_complaint" />
+            <marker date="1653055040200" expanded="true" signature="30728:30796" ph="select * fro... user_complaint" />
+            <marker date="1653055040200" expanded="true" signature="32093:32182" ph="insert into login... " />
+            <marker date="1653055040200" expanded="true" signature="32229:32381" ph="insert into users... " />
+            <marker date="1653055040200" expanded="true" signature="32513:32536" ph="select * fro... homebaker" />
+            <marker date="1653055040200" expanded="true" signature="32694:32718" ph="select * fro... kudmbasree" />
+            <marker date="1653055040200" expanded="true" signature="32869:32891" ph="select * fro... eventmanagement" />
+            <marker date="1653055040200" expanded="true" signature="33089:33133" ph="select * fro... homebaker" />
+            <marker date="1653055040200" expanded="true" signature="33333:33393" ph="select * fro... homebakerproduct" />
+            <marker date="1653055040200" expanded="true" signature="33557:33578" ph="select * fro... gallery" />
+            <marker date="1653055040200" expanded="true" signature="33779:33823" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="33779:33829" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="34058:34108" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="34058:34112" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="34058:34132" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="34058:34141" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="34302:34323" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="34539:34596" ph="select * fro... handicraftproduct" />
+            <marker date="1653055040200" expanded="true" signature="34795:34990" ph="select produ... booking_sub" />
+            <marker date="1653055040200" expanded="true" signature="35183:35226" ph="delete from " />
+            <marker date="1653055040200" expanded="true" signature="35217:35226" ph="select produ... booking_sub" />
+            <marker date="1653055040200" expanded="true" signature="35446:35504" ph="select * fro... kudumbasree_complaint" />
+            <marker date="1653055040200" expanded="true" signature="35774:35862" ph="insert into kudumbasree_complaint... " />
+            <marker date="1653055040200" expanded="true" signature="35774:35883" ph="insert into kudumbasree_complaint... " />
+            <marker date="1653055040200" expanded="true" signature="35774:35913" ph="insert into kudumbasree_complaint... " />
+            <marker date="1653055040200" expanded="true" signature="35774:35923" ph="insert into kudumbasree_complaint... " />
+            <marker date="1653055040200" expanded="true" signature="35774:35924" ph="insert into kudumbasree_complaint... " />
+            <marker date="1653055040200" expanded="true" signature="36194:36234" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="36194:36248" ph="select * fro... product" />
+            <marker date="1653055040200" expanded="true" signature="36350:36418" ph="insert into booking_main... " />
+            <marker date="1653055040200" expanded="true" signature="36350:36451" ph="insert into booking_main... " />
+            <marker date="1653055040200" expanded="true" signature="36350:36452" ph="insert into booking_main... " />
+            <marker date="1653055040200" expanded="true" signature="36350:36457" ph="insert into booking_main... " />
+            <marker date="1653055040200" expanded="true" signature="36350:36469" ph="insert into booking_main... " />
+            <marker date="1653055040200" expanded="true" signature="36523:36614" ph="insert into booking_sub... " />
+            <marker date="1653055040200" expanded="true" signature="36817:36898" ph="insert into feedback... " />
+            <marker date="1653055040200" expanded="true" signature="37106:37194" ph="insert into rating... " />
+            <marker date="1653055040200" expanded="true" signature="37461:37596" ph="insert into order_main... " />
+            <marker date="1653055040200" expanded="true" signature="37662:37761" ph="insert into ordersub... " />
+            <marker date="1653055040200" expanded="true" signature="38967:39058" ph="select name,... users" />
+            <marker date="1653055040200" expanded="true" signature="39406:39481" ph="select * fro... login" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

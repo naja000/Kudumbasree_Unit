@@ -1,0 +1,82 @@
+{#<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">#}
+{#<html xmlns="http://www.w3.org/1999/xhtml">#}
+{#<head>#}
+{#<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />#}
+{#<title>Untitled Document</title>#}
+{#</head>#}
+{##}
+{#<body>#}
+{#<form id="form1" name="form1" method="post" action="/login_post">#}
+{#  <table width="285" height="170" border="1">#}
+{#    <tr>#}
+{#      <td width="59">username</td>#}
+{#      <td width="210"><label>#}
+{#        <input type="text" name="textfield" />#}
+{#      </label></td>#}
+{#    </tr>#}
+{#    <tr>#}
+{#      <td>password</td>#}
+{#      <td><label>#}
+{#        <input type="password" name="textfield2" />#}
+{#      </label></td>#}
+{#    </tr>#}
+{#    <tr>#}
+{#      <td height="50" colspan="2"><label> </label>#}
+{#          <div align="center">#}
+{#            <input type="submit" name="Submit" value="Login" />#}
+{#        </div></td>#}
+{#    </tr> <tr>#}
+{#      <td height="50" colspan="2"><label> </label>#}
+{#          <div align="center">#}
+{#            <a href="/registration">reg</a>#}
+{#        </div></td>#}
+{#    </tr>#}
+{#  </table>#}
+{#</form>#}
+
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Sign up / Login Form</title>
+  <link rel="stylesheet" href="/static/login_temp/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+{#<!-- partial:index.partial.html -->#}
+{#<!DOCTYPE html>#}
+{#<html>#}
+{#<head>#}
+{#	<title>Slide Navbar</title>#}
+{#	<link rel="stylesheet" type="text/css" href="slide navbar style.css">#}
+{#<link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">#}
+{#</head>#}
+<body>
+	<div class="main">
+		<input type="checkbox" id="chk" aria-hidden="true">
+
+			<div class="signup">
+{#                <h3>Welcome</h3>#}
+				<form>
+					<label for="chk" aria-hidden="true"><Welcome>Kudumbasree</Welcome></label>
+{#					<input type="text" name="txt"  placeholder="User name" required="">#}
+{#					<input type="email" name="email" placeholder="Email" required="">#}
+{#					<input type="password" name="pswd" placeholder="Password" required="">#}
+{#					<button>Sign up</button>#}
+				</form>
+			</div>
+
+			<div class="login">
+				<form id="form1" name="form1" method="post" action="/login_post">
+					<label for="chk" aria-hidden="true">Login</label>
+					<input type="email" name="textfield" placeholder="Email" required="">
+					<input type="password" name="textfield2" placeholder="Password" required="">
+					<button>Login</button>
+				</form>
+			</div>
+	</div>
+</body>
+</html>
+{#<!-- partial -->#}
+{#  #}
+{#</body>#}
+{#</html>#}

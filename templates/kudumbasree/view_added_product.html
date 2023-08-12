@@ -1,0 +1,45 @@
+{% extends 'kudumbasree/index.html' %}
+{% block body %}
+    <div class="container">
+<form id="form1" name="form1" method="post" action="/kudumbasree_search_product_post">
+  <table class="pull-right">
+    <tr>
+      <td></td>
+      <td><label>
+        <input type="text" name="textfield"  class="form-control" required/>
+      </label></td>
+      <td><label>
+        <div align="center">
+          <input type="submit" name="Submit" value="search"  class="btn btn-outline-success"/>
+          </div>
+      </label></td>
+    </tr>
+  </table>
+  <table class="table table-bordered">
+    <tr>
+      <td>Sno</td>
+      <td colspan="2">Name</td>
+      <td>Quantity</td>
+      <td>Description</td>
+      <td>Cost</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}</td>
+      <td>{{ i['product_name'] }}&nbsp;</td>
+      <td><img src="{{ i['image'] }}" width="100px" height="100px" /> </td>
+      <td>{{ i['quantity'] }}&nbsp;</td>
+      <td>{{ i['details'] }}&nbsp;</td>
+      <td>{{ i['amount'] }}&nbsp;</td>
+      <td><a href="/kudumbasree_edit_product/{{ i['product_id'] }}" class="btn btn-success">edit</a></td>
+      <td><a href="/kudumbasree_delete_product/{{ i['product_id'] }}"  class="btn btn-danger">delete</a></td>
+    <td><a href="/kudumbasree_view_rate_and_review/{{ i["product_id"] }}"  class="btn btn-primary">rating</a></td>
+    </tr>
+      {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+</form>
+    </div>
+{% endblock %}

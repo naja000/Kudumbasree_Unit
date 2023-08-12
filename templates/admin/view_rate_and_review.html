@@ -1,0 +1,27 @@
+{% extends 'index.html' %}
+{% block body %}
+
+<div class="container">
+<form id="form1" name="form1" method="post" action="/admin_view_rate_and_review_post">
+
+  <table  class="table table-bordered">
+    <tr>
+      <td>Sno</td>
+      <td>User info </td>
+
+      <td>Rating</td>
+      <td>Date</td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+      <td>{{ i['name']}}<br>{{ i['email'] }}<br>&nbsp;</td>
+        <td>{{ i['rating']}}</td>
+      <td>{{ i['date']}}</td>
+    </tr>
+       {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+</form>
+</div>
+{% endblock %}

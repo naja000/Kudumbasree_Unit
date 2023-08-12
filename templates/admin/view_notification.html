@@ -1,0 +1,41 @@
+{% extends 'index.html' %}
+{% block body %}
+
+<div class="container">
+<form id="form1" name="form1" method="post" action="/admin_view_notification_post">
+  <table class="pull-right">
+    <tr>
+      <td>date from </td>
+      <td><label>
+        <input type="date" name="textfield"  REQUIRED/>
+      </label></td>
+      <td>date to </td>
+      <td><label>
+        <input type="date" name="textfield2" REQUIRED/>
+      </label></td>
+      <td><label>
+        <input type="submit" name="Submit" value="go" class="btn btn-outline-info" />
+      </label></td>
+    </tr>
+  </table>
+  <table class="table table-bordered">
+    <tr>
+      <td>Sno</td>
+      <td>Notification</td>
+      <td>Date</td>
+      <td>&nbsp;</td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+      <td>{{ i['notification'] }}&nbsp;</td>
+      <td>{{ i['date']}}&nbsp;</td>
+      <td><a href="/admin_delete_notification/{{ i["nid"] }}" class="btn btn-outline-danger">delete</a></td>
+    </tr>
+      {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</form>
+</div>
+{% endblock %}

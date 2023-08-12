@@ -1,0 +1,43 @@
+{% extends 'index.html' %}
+{% block body %}
+
+<div class="container">
+<form id="form1" name="form1" method="post" action="/admin_view_feedback_post2">
+  <table  class="pull-right">
+    <tr>
+      <td>date from </td>
+      <td><label>
+        <input type="date" name="textfield" />
+      </label></td>
+      <td>date to </td>
+      <td><label>
+        <input type="date" name="textfield2" />
+      </label></td>
+      <td><label>
+        <div align="center">
+          <input type="submit" name="Submit" value="go"  CLASS="btn btn-outline-primary"/>
+          </div>
+      </label></td>
+    </tr>
+  </table>
+  <table class="table table-bordered">
+    <tr>
+      <td>sno</td>
+         <td>user info</td>
+      <td>date</td>
+      <td>feedback</td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+       <td>{{ i['name'] }}<br>{{ i['email'] }}&nbsp;</td>
+       <td>{{ i['date'] }}</td>
+      <td>{{ i['feedback'] }}&nbsp;</td>
+    </tr>
+       {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</form>
+</div>
+{% endblock %}

@@ -1,0 +1,50 @@
+{% extends 'kudumbasree/index.html' %}
+{% block body %}
+    <div class="container">
+<form action="/kudumbasree_edit_product_post" method="post" enctype="multipart/form-data" name="form1" id="form1">
+    <input type="hidden" name="id" value="{{ data['product_id'] }}">
+
+
+  <table class="table">
+    <tr>
+      <td>Name</td>
+      <td>
+        <input type="text" name="textfield5" value="{{ data['product_name'] }}" class="form-control" required />
+      </label></td>
+    </tr>
+    <tr>
+      <td>Image</td>
+      <td>
+        <input type="file" name="file" class="form-control" />
+      </label></td>
+    </tr>
+    <tr>
+      <td>Quantity</td>
+      <td>
+        <input type="text" name="textfield3" value="{{ data['quantity'] }}" class="form-control" required />
+      </label></td>
+    </tr>
+    <tr>
+      <td>Description</td>
+      <td>
+        <input type="text" name="textfield2" value="{{ data['details'] }}"  class="form-control" required/>
+      </label></td>
+    </tr>
+    <tr>
+      <td>Cost</td>
+      <td>
+        <input type="text" name="textfield" value="{{ data['amount'] }}"  class="form-control" required/>
+      </label></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>
+        <div align="center">
+          <input type="submit" name="Submit" value="edit"  class="btn btn-success"/>
+          </div>
+      </label></td>
+    </tr>
+  </table>
+</form>
+    </div>
+{% endblock %}

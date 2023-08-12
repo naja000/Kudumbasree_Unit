@@ -1,0 +1,24 @@
+{% extends 'index.html' %}
+{% block body %}
+<body>
+<form id="form1" name="form1" method="post" action="/kudumbasree_send_reply_post">
+<input type="hidden" name="hid" value="{{ id }}"/>
+  <table class="table">
+    <tr>
+      <td>reply</td>
+      <td><label>
+        <input type="text" name="textfield" class="form-control" required/>
+      </label></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><label>
+        <div align="center">
+          <input type="submit" name="Submit" value="button" class="btn btn-outline-success"  />
+          </div>
+      </label></td>
+    </tr>
+  </table>
+</form>
+</body>
+{% endblock %}

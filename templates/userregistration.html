@@ -1,0 +1,93 @@
+{% extends 'inx2.html' %}
+{% block body %}
+    <div class="container">
+<form action="/userregistration_post" method="post" enctype="multipart/form-data" name="form1" id="form1">
+  <table class="table table-bordered">
+
+    <tr>
+      <td>Name</td>
+      <td>
+        <input type="text" name="textfield3" class="form-control" required />
+      </label></td>
+    </tr>
+    <tr>
+      <td>Place</td>
+      <td>
+        <input type="text" name="textfield4" class="form-control" required />
+      </label></td>
+    </tr>
+{#    <tr>#}
+{#      <td>Area</td>#}
+{#      <td>#}
+{#        <input type="text" name="textfield5" class="form-control" required/>#}
+{#      </label></td>#}
+{#    </tr>#}
+    <tr>
+      <td>Post</td>
+      <td>
+        <input type="text" name="textfield6" class="form-control" required/>
+      </label></td>
+    </tr>
+    <tr>
+      <td>Pin</td>
+      <td>
+        <input type="text" name="textfield7" class="form-control" required/>
+      </label></td>
+    </tr>
+    <tr>
+      <td>District</td>
+      <td>
+        <select  name="textfield8" class="form-control" required>
+         <option>palakkad</option>
+         <option>kozhikode</option>
+         <option>malappuram</option>
+         <option>trishur</option>
+         <option>kollam</option>
+         <option>kannur</option>
+     </select>
+      </label></td>
+    </tr>
+{#    <tr>#}
+{#      <td>Memeber count </td>#}
+{#      <td>#}
+{#        <input type="text" name="textfield9"  class="form-control" required/>#}
+{#      </label></td>#}
+{#    </tr>#}
+
+{#    <tr>#}
+{#      <td>Leader name </td>#}
+{#      <td>#}
+{#        <input type="text" name="textfield11" class="form-control" required />#}
+{#      </label></td>#}
+{#    </tr>#}
+    <tr>
+      <td> phone </td>
+      <td>
+        <input type="text" name="textfield12" class="form-control" required/>
+      </label></td>
+    </tr>
+{#    <tr>#}
+{#      <td>leader photo </td>#}
+{#      <td>#}
+{#          <input type="file" name="file" class="form-control" required />#}
+{#    </td>#}
+{#    </tr>#}
+      <tr>
+          <td>Email</td>
+          <td><input type="email" name="em1" id="em1" class="form-control" required></td>
+      </tr>
+      <tr>
+          <td>Password</td>
+          <td><input type="text" name=password1 id="password1" class="form-control" required></td>
+      </tr>
+      <tr>
+          <td>Confirm Password</td>
+          <td><input type="text" name="password2" id="password2" class="form-control" required/></td>
+      </tr>
+      <tr>
+          <td> <input type="submit" name="Submit" value="Submit"  class="btn btn-info"/></td>
+
+  </table>
+</form>
+    </div>
+{% endblock %}

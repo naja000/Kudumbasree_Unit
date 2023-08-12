@@ -1,0 +1,43 @@
+{% extends 'kudumbasree/index.html' %}
+{% block body %}
+    <div class="container">
+<form id="form1" name="form1" method="post" action="/kudumbasree_view_booking_post">
+  <table class="pull-right">
+    <tr>
+      <td>date from </td>
+      <td><label>
+        <input type="date" name="textfield"  required/>
+      </label></td>
+      <td>date to </td>
+      <td><label>
+        <input type="date" name="textfield2"  required/>
+      </label></td>
+      <td><label>
+        <input type="submit" name="Submit" value="go" class="form-control" required />
+      </label></td>
+    </tr>
+  </table>
+  <table class="table table-bordered">
+    <tr>
+      <td>sno</td>
+      <td>user_info</td>
+      <td>status</td>
+      <td>date</td>
+      <td>&nbsp;amount</td>
+        <td></td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+      <td>{{ i['userinfo'] }}<br>{{ i['name'] }}<br>{{ i['place'] }}<br>{{ i['pin'] }}<br>&nbsp;</td>
+      <td>{{ i['status'] }}&nbsp;</td>
+      <td>{{ i['date'] }}&nbsp;</td>
+        <td>{{ i['amount'] }}</td><td>
+      <p><a href="/kudumbasree_view_booking_more/{{i["book_id"]}}" class="btn btn-success">more</a></p></td>
+    </tr>
+      {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+</form>
+    </div>
+{% endblock %}

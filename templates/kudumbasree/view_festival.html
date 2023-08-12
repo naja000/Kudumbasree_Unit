@@ -1,0 +1,43 @@
+{% extends 'kudumbasree/index.html' %}
+{% block body %}
+    <div class="container">
+<form id="form1" name="form1" method="post" action="/kudumbasree_view_festival_post">
+  <table class="pull-right">
+    <tr>
+      <td>date from </td>
+      <td><label>
+        <input type="date" name="textfield" />
+      </label></td>
+      <td>date to </td>
+      <td><label>
+        <input type="date" name="textfield2" />
+      </label></td>
+      <td><label>
+        <input type="submit" name="Submit" value="go"  class="btn btn-success"/>
+      </label></td>
+    </tr>
+  </table>
+  <table class="table table-bordered">
+    <tr>
+      <td>sno</td>
+      <td>name</td>
+      <td>desciption</td>
+      <td>date</td>
+      <td>&nbsp;time</td>
+        <td></td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+      <td>{{ i['name'] }}</td>
+      <td>{{ i['description'] }}&nbsp;</td>
+      <td>{{ i['date'] }}&nbsp;</td>
+        <td>{{ i['time'] }}</td>
+
+    </tr>
+      {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+</form>
+    </div>
+{% endblock %}

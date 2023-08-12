@@ -1,0 +1,46 @@
+{% extends 'index.html' %}
+{% block body %}
+
+<div class="container">
+<form id="form1" name="form1" method="post" action="/view_complaints_from_users_about_kudumba_search">
+  <table class="pull-right">
+  <tr>
+      <td width="68">Date from </td>
+      <td width="4">&nbsp;  <input type="date" name="textfield" required/></td>
+      <td width="50">Date to </td>
+      <td width="4">&nbsp;  <input type="date" name="textfield2" required/>  </td>
+      <td width="60"><label>
+        <input type="submit" name="Submit" value="go"  class="btn btn-outline-info"/>
+      </label></td>
+    </tr>
+  </table>
+<table class="table table-bordered">
+    <tr>
+      <td><p>Sno</p> </td>
+        <td>Usrer info</td>
+        <td>Kudumbasree info</td>
+      <td>complaint</td>
+      <td><p>Date </p> </td>
+      <td>Reply</td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}</td>
+        <td>{{i['uname']}}<br>{{i['email']}}<br></td>
+        <td>{{i['name']}}<br>{{i['email_id']}}<br></td>
+      <td>{{ i['complaint'] }}&nbsp;</td>
+      <td>{{ i['date'] }}&nbsp;</td>
+
+      <td>
+{#          {% if i['status'] == 'pending' %}#}
+{#          <a href="/kudumbasree_send_reply/{{ i['kc_id'] }}">reply</a>#}
+{#        {% else %}#}
+          {{ i['reply'] }}
+{#          {% endif %}#}
+      </td>
+    </tr>
+      {% endfor %}
+  </table>
+</form>
+</div>
+{% endblock %}

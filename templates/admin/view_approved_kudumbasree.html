@@ -1,0 +1,40 @@
+{% extends 'index.html' %}
+{% block body %}
+
+<div class="container">
+<form id="form1" name="form1" method="post" action="/admin_view_approved_kudumbasree_post">
+  <table class="pull-right">
+    <tr>
+      <td width="178">
+        <input type="text" name="textfield" class="form-control" required/>
+      </td>
+      <td>
+          <input type="submit" name="Submit3" value="Search"  class="btn btn-outline-primary"/></td>
+    </tr>
+  </table>
+  <table class="table table-bordered">
+    <tr>
+      <td width="21">Sno</td>
+      <td width="32">Name</td>
+      <td width="47">Address</td>
+      <td width="72">Member count </td>
+      <td width="72">Leaders info</td>
+      <td width="64">&nbsp;</td>
+      <td width="72">&nbsp;</td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+      <td>&nbsp;{{ i['name'] }}</td>
+      <td>{{ i['place'] }}<br>{{ i['area'] }}<br>{{ i['pin'] }}<br>{{ i['post'] }}<br>{{ i['district'] }}<br></td>
+      <td>&nbsp;{{ i['member_count'] }}</td>
+        <td><img src="{{ i['leader_photo'] }}" height="100px" width="100px"><br>{{ i['leader_name'] }}<br>{{ i['leader_phoneno'] }}<br></td>
+    <td><a href="/admin_view_product_information/{{ i["login_id"] }}" class="btn btn-outline-info">Product</a> </td>
+    <td><a href="/admin_view_financial_report/{{ i["login_id"] }}" class="btn btn-outline-info">Report</a> </td>
+    </tr>
+      {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+</form>
+</div>
+{% endblock %}

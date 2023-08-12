@@ -1,0 +1,27 @@
+{% extends 'kudumbasree/index.html' %}
+{% block body %}
+    <div class="container">
+<form id="form1" name="form1" method="post" action="/kudumbasree_add_fin_report_post">
+
+    <table class="table table-bordered">
+    <tr>
+      <td>sno</td>
+      <td>descriptions</td>
+      <td>date</td>
+        <td>Document</td>
+      <td>&nbsp;</td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+      <td>{{ i['descriptions'] }}&nbsp;</td>
+      <td>{{ i['date']}}&nbsp;</td>
+       <td>{{ i['file']}}&nbsp;</td>
+      <td><a href="{{ i["file"] }}" download class="btn btn-success">download</a></td>
+    </tr>
+      {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</form>
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends 'index.html' %}
+{% block body %}
+
+<div class="container">
+<form id="form1" name="form1" method="post" action="/admin_view_notification_post">
+
+
+  <table class="table table-bordered">
+    <tr>
+      <td>Sno</td>
+      <td>Descriptions</td>
+      <td>Date</td>
+      <td>&nbsp;</td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+      <td>{{ i['descriptions'] }}&nbsp;</td>
+      <td>{{ i['date']}}&nbsp;</td>
+      <td><a href="{{ i["file"] }}" download class="btn btn-outline-primary">download</a></td>
+    </tr>
+      {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</form>
+</div>
+{% endblock %}

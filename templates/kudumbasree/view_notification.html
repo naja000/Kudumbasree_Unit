@@ -1,0 +1,26 @@
+{% extends 'kudumbasree/index.html' %}
+{% block body %}<div class="container">
+<form id="form1" name="form1" method="post" action="/admin_view_notification_post">
+
+  <table class="table table-bordered">
+
+    <tr>
+      <td>Sno</td>
+      <td>Notification</td>
+      <td>Date</td>
+
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+      <td>{{ i['notification'] }}&nbsp;</td>
+      <td>{{ i['date']}}&nbsp;</td>
+
+    </tr>
+      {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</form>
+</div>
+{% endblock %}

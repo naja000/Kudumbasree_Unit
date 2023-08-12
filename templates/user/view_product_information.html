@@ -1,0 +1,39 @@
+{% extends 'user/userindex.html' %}
+{% block body %}
+
+<div class="container">
+<form id="form1" name="form1" method="post" action="">
+{#  <table width="200" border="1">#}
+{#    <tr>#}
+{#      <td width="124" height="28">&nbsp;  <input type="text" name="textfield" /> </td>#}
+{#      <td width="60"><label> #}
+{#        <input type="submit" name="Submit" value="search" />#}
+{#      </label></td>#}
+{#    </tr>#}
+{#  </table>#}
+  <p>&nbsp;</p>
+  <table class="table table-bordered">
+    <tr>
+      <td>Sno</td>
+      <td>Product name </td>
+      <td>Product details </td>
+      <td>Quantity</td>
+      <td>Cost</td>
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+      <td><img src="{{i['image']  }}" height="100px"width="100px"><br>{{ i['product_name'] }}&nbsp;</td>
+      <td>{{ i['details'] }}&nbsp;</td>
+      <td>{{ i['quantity'] }}&nbsp;</td>
+        <td>{{ i['amount'] }}&nbsp;</td>
+
+        <td><a href="/book_q/{{ i["product_id"] }}" class="btn btn-outline-info">Book</a> </td>
+        <td><a href="/add_rating/{{ i["product_id"] }}" class="btn btn-outline-info">Rating</a> </td>
+
+    </tr>
+      {% endfor %}
+  </table>
+</form>
+</div>
+{% endblock %}

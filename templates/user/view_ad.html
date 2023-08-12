@@ -1,0 +1,43 @@
+{% extends 'user/userindex.html' %}
+{% block body %}
+
+<div class="container">
+<form id="form1" name="form1" method="post" action="">
+{#  <table class="pull-right">#}
+{#    <tr>#}
+{#      <td width="178">#}
+{#        <input type="text" name="textfield" class="form-control" required/>#}
+{#      </td>#}
+{#      <td>#}
+{#          <input type="submit" name="Submit3" value="Search"  class="btn btn-outline-primary"/></td>#}
+{#    </tr>#}
+{#  </table>#}
+  <table class="table table-bordered">
+    <tr>
+      <td width="21">Sno</td>
+      <td width="32"> Name</td>
+      <td width="47">Photo</td>
+      <td width="72">Discription </td>
+      <td width="72">Date</td>
+      <td width="72">Time</td>
+{#      <td width="64">&nbsp;</td>#}
+{#      <td width="72">&nbsp;</td>#}
+    </tr>
+      {% for i in data %}
+    <tr>
+      <td>{{ loop.index }}&nbsp;</td>
+      <td>&nbsp;{{ i['name'] }}</td>
+      <td>&nbsp;<img src="{{ i.image }}" height="100" width="100"></td>
+      <td>&nbsp;{{ i['description'] }}</td>
+      <td>&nbsp;{{ i['date'] }}</td>
+      <td>&nbsp;{{ i['time'] }}</td>
+{#        <td><img src="{{ i['leader_photo'] }}" height="100px" width="100px"><br>{{ i['leader_name'] }}<br>{{ i['leader_phoneno'] }}<br></td>#}
+{#    <td><a href="/user_view_product_information/{{ i["login_id"] }}" class="btn btn-outline-info">Product</a> </td>#}
+{#    <td><a href="/admin_view_financial_report/{{ i["login_id"] }}" class="btn btn-outline-info">Report</a> </td>#}
+    </tr>
+      {% endfor %}
+  </table>
+  <p>&nbsp;</p>
+</form>
+</div>
+{% endblock %}
